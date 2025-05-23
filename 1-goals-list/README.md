@@ -28,11 +28,13 @@ Curso: https://www.udemy.com/course/react-native-the-practical-guide/
 -   `assets/`: Imagens e ícones usados no app.
 -   `.env`: Variáveis de ambiente.
 -   `.expo/`: Arquivos de configuração do Expo.
+-   `components/`: Pasta de componentes.
 
 ## Funcionalidades
 
--   Adicionar uma meta (goal) através de um campo de texto e botão.
+-   Adicionar uma meta (goal) através de um modal com campo de texto e botão.
 -   Visualizar a lista de metas (em desenvolvimento).
+-   Excluir uma meta ao pressionar a mesma.
 
 ## Requisitos
 
